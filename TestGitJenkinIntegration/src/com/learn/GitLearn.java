@@ -4,7 +4,7 @@ public class GitLearn {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("ststus11..");
+		System.out.println("ststus11..21");
 
 	}
 
